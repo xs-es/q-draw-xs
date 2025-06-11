@@ -1,4 +1,5 @@
-# circuit-draw-xs
+# q-draw-xs
+
 
 A futuristic, neon-style quantum circuit drawer for Qiskit circuits. Draws with custom PNG icons and supports CNOT/X overlays as in Qiskit diagrams.
 
