@@ -34,5 +34,6 @@ python circuit-test.py
 - Qiskit-style CNOT/X overlay
 - Customizable icons and fonts
 
-- ![image](https://github.com/user-attachments/assets/a3618ddc-9e16-4e2e-a7ad-873f910c7f84)
+![image](https://github.com/user-attachments/assets/a65e6bc9-8378-4733-a609-7bbf1d3395a8)
+
 
