@@ -6,7 +6,7 @@ A futuristic, neon-style quantum circuit drawer for Qiskit circuits. Draws with 
 ## Installation
 
 ```bash
-pip install .
+git clone https://github.com/xs-es/q-draw-xs.git
 ```
 
 ## Usage
