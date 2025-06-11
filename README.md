@@ -33,3 +33,6 @@ python circuit-test.py
 - Neon PNG icon overlay
 - Qiskit-style CNOT/X overlay
 - Customizable icons and fonts
+
+- ![image](https://github.com/user-attachments/assets/a3618ddc-9e16-4e2e-a7ad-873f910c7f84)
+
