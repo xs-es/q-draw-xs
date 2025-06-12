@@ -12,7 +12,7 @@ git clone https://github.com/xs-es/q-draw-xs.git
 ## Usage
 
 ```python
-from circuit_draw_xs.draw import xs_draw
+from q_draw_xs import xs_draw
 from qiskit import QuantumCircuit
 
 qc = QuantumCircuit(3, 3)
